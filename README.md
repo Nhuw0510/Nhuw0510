@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Nhu Do, I'm currently a sophomore CS student at Fresno State.
 <!--
 **Nhuw0510/Nhuw0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
